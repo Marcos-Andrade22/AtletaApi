@@ -31,3 +31,4 @@ D:\Vianna\ProgramacaoFullStack\.net\aula01\AtletaApi\obj\Debug\net8.0\refint\Atl
 D:\Vianna\ProgramacaoFullStack\.net\aula01\AtletaApi\obj\Debug\net8.0\AtletaApi.pdb
 D:\Vianna\ProgramacaoFullStack\.net\aula01\AtletaApi\obj\Debug\net8.0\AtletaApi.genruntimeconfig.cache
 D:\Vianna\ProgramacaoFullStack\.net\aula01\AtletaApi\obj\Debug\net8.0\ref\AtletaApi.dll
+D:\Vianna\ProgramacaoFullStack\.net\aula01\AtletaApi\obj\Debug\net8.0\AtletaApi.sourcelink.json

@@ -1,3 +1,5 @@
+using AtletaApi.Endpoints;
+
 var builder = WebApplication.CreateBuilder(args);
 
 // Add services to the container.
@@ -16,8 +18,6 @@ if (app.Environment.IsDevelopment())
 
 app.UseHttpsRedirection();
 
-app.MapGet("/", () => "Olá mundo!");
-app.MapGet("/teste", () => "1, 2, 3, testando...");
-
+app.AdicionarAtletaEndpoints();
 
 app.Run();
